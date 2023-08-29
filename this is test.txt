@@ -1,2 +1,6 @@
 hello to all
+<<<<<<< HEAD
 hello from local
+=======
+fsdfsdf
+>>>>>>> 4f5963c842f9b17260f7341011210740d5050ac6
